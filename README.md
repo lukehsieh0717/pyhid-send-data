@@ -58,19 +58,19 @@
     $ sudo make altinstall<br/>
     $ python2.7 -V
 
-<br/><br/>
+<br/>
 
 ### Install pip
     $ sudo apt-get update && sudo apt-get -y upgrade
     $ sudo apt-get install python-pip
     $ pip -V
 
-<br/><br/>
+<br/>
 
 ### Install libusb
     $ sudo apt-get install libusb-1.0-0-dev
 
-<br/><br/>
+<br/>
 
 ### Install Python usb library
     $ sudo pip install pyusb
