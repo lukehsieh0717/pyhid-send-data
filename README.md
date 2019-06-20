@@ -73,5 +73,5 @@
     $ sudo pip install pyusb
     $ sudo pip install libusb1
 
-### run the uat.py
+### Run uat.py
     $ sudo -S python path-to/usb-automation-test/uat.py
