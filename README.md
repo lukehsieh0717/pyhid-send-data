@@ -19,7 +19,7 @@
 > ##### Unmount disk again
     $diskutil unmount [Micro SD mount location]
 
-<br/>
+<br/><br/>
 
 > ### Configure Raspberry Pi
 > ##### Login to Pi ( default user/password : pi/raspberry )
@@ -44,7 +44,7 @@
 > ##### Now can connect Pi by cable line from Mac.
     $ ssh [username]@192.168.2.11
 
-<br/>
+<br/><br/>
 
 > ### Install Python 2.7
     $ sudo apt-get update<br/>
@@ -58,19 +58,19 @@
     $ sudo make altinstall<br/>
     $ python2.7 -V
 
-<br/>
+<br/><br/>
 
 > ### Install pip
     $ sudo apt-get update && sudo apt-get -y upgrade
     $ sudo apt-get install python-pip
     $ pip -V
 
-<br/>
+<br/><br/>
 
 > ### Install libusb
     $ sudo apt-get install libusb-1.0-0-dev
 
-<br/>
+<br/><br/>
 
 > ### Install Python usb library
     $ sudo pip install pyusb
